@@ -15,7 +15,7 @@ All AI repositories follow a similar structure and lifecycle:
 
 These repositories are responsible for collecting raw content from different platforms before passing data to the AI processing pipeline.
 
-### Google Crawler
+### 1. Google Crawler
 **Purpose:**  
 Collect articles and web pages from Google Search based on predefined keywords and topics.
 
@@ -24,7 +24,7 @@ Collect articles and web pages from Google Search based on predefined keywords a
 
 ---
 
-### Facebook Post Crawler
+### 2. Facebook Post Crawler
 **Purpose:**  
 Collect public Facebook posts related to specified keywords or topics.
 
@@ -33,7 +33,7 @@ Collect public Facebook posts related to specified keywords or topics.
 
 ---
 
-### Facebook Ads Crawler
+### 3. Facebook Ads Crawler
 **Purpose:**  
 Collect Facebook advertisements for monitoring and analysis purposes.
 
